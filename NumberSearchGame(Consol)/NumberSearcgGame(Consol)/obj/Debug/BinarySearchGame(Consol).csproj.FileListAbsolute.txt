@@ -1,0 +1,6 @@
+C:\Users\msft_\source\repos\BinarySearcgGame(Consol)\BinarySearcgGame(Consol)\bin\Debug\BinarySearcgGame(Consol).exe
+C:\Users\msft_\source\repos\BinarySearcgGame(Consol)\BinarySearcgGame(Consol)\bin\Debug\BinarySearcgGame(Consol).pdb
+C:\Users\msft_\source\repos\BinarySearcgGame(Consol)\BinarySearcgGame(Consol)\obj\Debug\BinarySearchGame(Consol).csprojAssemblyReference.cache
+C:\Users\msft_\source\repos\BinarySearcgGame(Consol)\BinarySearcgGame(Consol)\obj\Debug\BinarySearchGame(Consol).csproj.CoreCompileInputs.cache
+C:\Users\msft_\source\repos\BinarySearcgGame(Consol)\BinarySearcgGame(Consol)\obj\Debug\BinarySearcgGame(Consol).exe
+C:\Users\msft_\source\repos\BinarySearcgGame(Consol)\BinarySearcgGame(Consol)\obj\Debug\BinarySearcgGame(Consol).pdb
